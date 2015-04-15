@@ -6,7 +6,7 @@
 [![Coverage Status][coveralls-image]][coveralls-url]
 
 
-gulp plugin for [gulp-def](https://github.com/qiu8310/gulp-def)
+gulp plugin for [elegant.def](https://github.com/qiu8310/elegant.def)
 
 ## Usage
 
