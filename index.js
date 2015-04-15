@@ -1,6 +1,6 @@
 var through = require('through2'),
   gutil = require('gulp-util'),
-  compile = require('elegant.def/src/compiler').compile;
+  compile = require('elegant.def/src/compile');
 
 module.exports = function (opts) {
   'use strict';

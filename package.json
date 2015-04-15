@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/qiu8310/gulp-def",
   "dependencies": {
-    "elegant.def": "^1.0.0",
+    "elegant.def": "^1.0.1",
     "gulp-util": "^3.0.4",
     "through2": "^0.6.5"
   },
