@@ -18,13 +18,14 @@ npm install --save-dev gulp-def
 
 Then, add it to your gulpfile.js:
 
+```
 var def = require('gulp-def');
-
-gulp.src("./src/*.js")
+gulp.src('./src/*.js')
     .pipe(def({
         defName: 'def'
     }))
-    .pipe(gulp.dest("./dist"));
+    .pipe(gulp.dest('./dist'));
+```    
     
 ## API
 
